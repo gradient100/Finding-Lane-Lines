@@ -1,7 +1,8 @@
 # **Finding Lane Lines on the Road** 
-Self-Driving Car Engineer Project
 
 Vinh Nghiem
+
+Self-Driving Car Engineer Nanodegree Program
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
