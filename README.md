@@ -2,7 +2,7 @@
 
 Vinh Nghiem
 
-Self-Driving Car Engineer Nanodegree Program
+Self-Driving Car Engineer Program
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
